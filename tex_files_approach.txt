@@ -1,0 +1,4 @@
+PINN:
+InvNet:
+PauliNet:
+FermiNet:
